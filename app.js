@@ -114,7 +114,7 @@ class Ball{
         c.style.top = y + "px";
 
         let img = document.createElement('img');
-        img.src = 'hari.png';
+        img.src = 'https://projectilesasdfasdfasd.herokuapp.com/hari.png';
         img.style.webkitUserSelect = 'none';
         img.style.userSelect = 'none';
         c.appendChild(img);
